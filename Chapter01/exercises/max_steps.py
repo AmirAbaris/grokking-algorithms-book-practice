@@ -20,7 +20,7 @@ sorted_names = [
 
 # searching items via binary search
 def binary_search_max_steps(names, name):
-    low = 0;
+    low = 0
     high = len(names) - 1
     steps = 0;
 
