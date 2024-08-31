@@ -38,5 +38,5 @@ def binary_search_max_steps(names, name):
 
     return steps
 
-print(binary_search_max_steps(sorted_names, "Adrian"))
-print(binary_search_max_steps(sorted_names, "Layla"))
+print(binary_search_max_steps(sorted_names, "Nora")) # => 7
+print(binary_search_max_steps(sorted_names, "Layla")) # => 7
