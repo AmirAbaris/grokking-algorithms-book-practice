@@ -1,6 +1,6 @@
 // i used typescript for this because its my main language of choice
 interface Person {
-    name: string
+    name: string;
 }
 
 interface HashTable<T> {
