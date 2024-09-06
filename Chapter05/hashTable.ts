@@ -10,6 +10,6 @@ interface HashTable<T> {
 // init the hash table
 var person: HashTable<Person> = {};
 
-person["John"] = { name: "John" }
+person["John"] = { name: "John" };
 
 console.log(person["John"].name);
